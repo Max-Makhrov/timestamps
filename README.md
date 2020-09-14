@@ -10,6 +10,11 @@ https://docs.google.com/spreadsheets/d/1rV60zGQqIoDedp2wpGrTyEY4xcuXil_gTeIcyguM
 
 ## Installstion
 
+ 1. Change settings on sheet `_onEditSets_`
+ 2. Go to menu `Timistamp > Get the code!`
+ 3. Copy the code from the pop-up
+ 4. Go to menu `Tools > Script Editor...`
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTI2MDY2Nl19
+eyJoaXN0b3J5IjpbLTEzODY1MzIwODJdfQ==
 -->
