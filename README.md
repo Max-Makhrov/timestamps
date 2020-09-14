@@ -16,7 +16,7 @@ https://docs.google.com/spreadsheets/d/1rV60zGQqIoDedp2wpGrTyEY4xcuXil_gTeIcyguM
  4. Go to menu `Tools > Script Editor...`
  5. Paste the code in the settings section
 
-Insert the settigs between 
+Insert the settigs between 2 "Change" comments:
 
 ```
       ///////////// Change \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
@@ -34,6 +34,12 @@ Insert the settigs between
       ///////////// Change /////////////////////////////////////  
 ```
 
+## About the project
+This project is aimed to be open-source.
+
+![Scheme 01](https://raw.githubusercontent.com/Max-Makhrov/timestamps/master/pics/scheme%2001.png)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODAzNDYxNjNdfQ==
+eyJoaXN0b3J5IjpbMzYzNTk3NjE4XX0=
 -->
