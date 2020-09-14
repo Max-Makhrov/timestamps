@@ -37,9 +37,11 @@ Insert the settigs between 2 "Change" comments:
 ## About the project
 This project is aimed to be open-source.
 
+![Scheme 01](https://raw.githubusercontent.com/Max-Makhrov/timestamps/master/pics/goals.png)
+
 ![Scheme 01](https://raw.githubusercontent.com/Max-Makhrov/timestamps/master/pics/scheme%2001.png)
 
-
+![Scheme 02](https://raw.githubusercontent.com/Max-Makhrov/timestamps/master/pics/scheme%2002png.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYzNTk3NjE4XX0=
+eyJoaXN0b3J5IjpbNDA5MjE4NzUwXX0=
 -->
