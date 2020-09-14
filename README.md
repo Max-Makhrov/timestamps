@@ -14,7 +14,26 @@ https://docs.google.com/spreadsheets/d/1rV60zGQqIoDedp2wpGrTyEY4xcuXil_gTeIcyguM
  2. Go to menu `Timistamp > Get the code!`
  3. Copy the code from the pop-up
  4. Go to menu `Tools > Script Editor...`
+ 5. Paste the code in the settings section
+
+Insert the settigs between 
+
+```
+      ///////////// Change \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+      
+      
+      sheetName: ["Sales", "Sales", "Sales"],
+      firstRow: ["2", "2", "2"],
+      timeStampColumn: ["A", "B", "C"],
+      changeColumns: ["D", "H", "D:G;I:"],
+      triggerType: ["unique number", "create", "update"],
+      insertType: ["value", "value", "value"],
+      lastRow: ["-1", "-1", "-1"]
+      
+      
+      ///////////// Change /////////////////////////////////////  
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODY1MzIwODJdfQ==
+eyJoaXN0b3J5IjpbLTE3ODAzNDYxNjNdfQ==
 -->
