@@ -8,6 +8,8 @@ https://docs.google.com/spreadsheets/d/1rV60zGQqIoDedp2wpGrTyEY4xcuXil_gTeIcyguM
 
 ![Timestams are inserted automatically when a user changes dependent columns](https://raw.githubusercontent.com/Max-Makhrov/timestamps/master/pics/timestamps_teaser%2005.gif)
 
+## Installstion
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzOTk2NzA3MF19
+eyJoaXN0b3J5IjpbLTM1OTI2MDY2Nl19
 -->
